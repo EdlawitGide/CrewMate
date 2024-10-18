@@ -2,7 +2,7 @@
 
   
 
-This web app allows users to create and manage customizable items. It features an interactive interface where users can add, update, or delete items and view summary statistics. Each item also has its own info page, providing a detailed look at its attributes. 
+CrewMates Among Us is a web app that allows users to create and manage customizable items. It features an interactive interface where users can add, update, or delete items and view summary statistics. Each item also has its own info page, providing a detailed look at its attributes. 
 
   
 
