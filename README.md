@@ -39,7 +39,7 @@ This web app allows users to create and manage customizable items. It features a
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/EdlawitGide/CrewMate/blob/d8a17afb7d2ba614e4976e19c0ce4b49704ac635/CrewMate.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](CrewMate.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
