@@ -35,17 +35,7 @@ This web app allows users to create and manage customizable items. It features a
 • Enhanced Customization: Watch how the "success" metric alters the visual representation of your items, providing immediate feedback on your collection's overall status. 
 
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-<img src='[CrewMate.gif](CrewMate.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](CrewMate.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
