@@ -2,6 +2,9 @@ CrewMates Among Us 🤖
 
 This web app allows users to create and manage customizable items. It features an interactive interface where users can add, update, or delete items and view summary statistics. Each item also has its own info page, providing a detailed look at its attributes.
 
+
+
+
 Features 🤺
 • Create, update, and delete items.
 • Assign custom attributes to items.
@@ -9,6 +12,9 @@ Features 🤺
 • Categories to restrict item attributes.
 • Summary page displaying custom statistics.
 • Success metrics that change the item list's appearance.
+
+
+
 
 Usage🔦
 • Effortless Item Management: Quickly add new items with personalized attributes and categorize them to suit specific needs.
