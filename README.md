@@ -1,4 +1,4 @@
-#CrewMates Among Us 🤖 
+# CrewMates Among Us 🤖 
 
   
 
@@ -6,7 +6,7 @@ This web app allows users to create and manage customizable items. It features a
 
   
 
-#Features 🤺 
+# Features 🤺 
 
 • Create, update, and delete items. 
 
@@ -22,7 +22,7 @@ This web app allows users to create and manage customizable items. It features a
 
   
 
-#Usage🔦 
+# Usage🔦 
 
 • Effortless Item Management: Quickly add new items with personalized attributes and categorize them to suit specific needs. 
 
