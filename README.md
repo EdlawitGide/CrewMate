@@ -38,6 +38,7 @@ This web app allows users to create and manage customizable items. It features a
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='[CrewMate.gif](CrewMate.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](CrewMate.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
